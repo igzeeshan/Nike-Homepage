@@ -61,7 +61,7 @@ If you find a bug or want to add a feature, feel free to open an issue.
 ---
 
 ## 👤 Author
-Made with ❤️ by [Zeeshan](https://github.com/igzeeshan)
+Made with ❤️ by [Zeeshan Rashid](https://github.com/igzeeshan)
 
 ---
 
